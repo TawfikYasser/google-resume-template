@@ -12,7 +12,7 @@
 * Basic Resume Tips
 * General Requirements for Student Resume
 * Advices & Tips for Each Section
-* Ready Template to Update and Convert to PDF
+* Ready Template to Update on it.
 * ! Additional updates will added soon.
 
 ---
@@ -82,9 +82,9 @@
 
 ### How to use the attached template
   * `Fork` the repository.
-  * `Update` the README Template with your information.
   * `Clone` the repo to your local computer.
-  * `Upload` the README Template called [GRT.md]() to this website to convert to PDF [link](https://www.markdowntopdf.com/).
+  * `Update` the README Template with your information.
+  * `Save` the file and convet it to PDF, then `Enjoy`!.
   
 ---
 
