@@ -9,11 +9,11 @@
 
 ### Repository Contents
 
-* Basic Resume Tips
-* General Requirements for Student Resume
-* Advices & Tips for Each Section
-* Ready Template to Update on it.
-* ! Additional updates will added soon.
+* [Basic Resume Tips](https://github.com/TawfikYasser/google-resume-template#basic-resume-tips)
+* [General Requirements for Student Resume](https://github.com/TawfikYasser/google-resume-template#general-requirements-for-student-resume)
+* [Advices & Tips for Each Section](https://github.com/TawfikYasser/google-resume-template#advices--tips-for-each-section)
+* [Ready Template to Update on it](https://github.com/TawfikYasser/google-resume-template#how-to-use-the-attached-template)
+* ! Additional updates will added soon
 
 ---
 
@@ -83,7 +83,7 @@
 ### How to use the attached template
   * `Fork` the repository.
   * `Clone` the repo to your local computer.
-  * `Update` the README Template with your information.
+  * `Update` the attached template with your information. [File: Resume_Your_Name.docx]
   * `Save` the file and convet it to PDF, then `Enjoy`!.
   
 ---
