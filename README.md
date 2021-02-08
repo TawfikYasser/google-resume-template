@@ -93,3 +93,5 @@
 I’d love to see your enchancements to the repository at any time.
 
 ### With ❤
+
+[UP 👆](https://github.com/TawfikYasser/google-resume-template#google-resume-template)
