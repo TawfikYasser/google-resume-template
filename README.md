@@ -94,7 +94,7 @@
   * `Fork` the repository.
   * `Clone` the repo to your local computer.
   * `Update` the attached template with your information. [File: Resume_Your_Name.docx]
-  * `Save` the file and convert it to PDF, then `Enjoy`!.
+  * `Save` the file and convert it to PDF, then `Enjoy`!
   
 ---
 
