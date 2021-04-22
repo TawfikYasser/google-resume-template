@@ -13,7 +13,7 @@
 * [General Requirements for Student Resume](https://github.com/TawfikYasser/google-resume-template#general-requirements-for-student-resume)
 * [Advice & Tips for Each Section](https://github.com/TawfikYasser/google-resume-template#advices--tips-for-each-section)
 * [Ready Template to Update on it](https://github.com/TawfikYasser/google-resume-template#how-to-use-the-attached-template)
-* ! Additional updates will added soon.
+* Additional updates will added soon.
 
 ---
 
